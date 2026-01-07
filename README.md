@@ -57,9 +57,7 @@ La barra de sonido se ha consolidado como el periférico de audio estándar para
 * Rtings.com (Análisis técnicos de respuesta de frecuencia).
 * Documentación de HDMI.org sobre protocolos ARC/eARC.
 
-**Licencia:**
-Este proyecto se distribuye bajo la Licencia MIT.
 
 **Autores:**
-* [Tu Nombre Aquí]
+* [Daniel Romero Marin]
 * Asignatura: Fundamentos de Hardware (FHW)
