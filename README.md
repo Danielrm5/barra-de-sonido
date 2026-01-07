@@ -8,7 +8,7 @@ Trabajo de investigación sobre periféricos de salida de audio: La Barra de Son
 
 Una **barra de sonido** es un sistema de altavoces "todo en uno" diseñado con una forma alargada y de perfil bajo. Su función principal es mejorar la calidad de audio de televisores y monitores, sustituyendo a los altavoces internos (que suelen ser de mala calidad) sin ocupar el espacio físico ni requerir el cableado complejo de un sistema Home Theater tradicional.
 
-!(https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Soundbar_Samsung.jpg/800px-Soundbar_Samsung.jpg)
+!(file:///D:/danip/Descargas/barra%20de%20sonido.jpg)
 
 ---
 
